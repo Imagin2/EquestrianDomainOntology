@@ -1,6 +1,6 @@
 # EquestrianDoamainKnowledgeGraph
 
-Welcome to **EquestrianDoamainKnowledgeGraph**, a knowledge graph designed to model and explore equestrian-related data. This repository contains the ontology and its documentation, generated with [Widoco](https://github.com/dgarijo/Widoco) and published via GitHub Pages.
+Welcome to **EquestrianDomainOntology**, an ontology designed to model and explore equestrian-related data. This repository contains the ontology and its documentation, generated with [Widoco](https://github.com/dgarijo/Widoco) and published via GitHub Pages.
 
 🔗 **Live Documentation**: ([https://noamaa.github.io/EquestrianDoamainKnowledgeGraph/])
 
@@ -17,7 +17,7 @@ Welcome to **EquestrianDoamainKnowledgeGraph**, a knowledge graph designed to mo
 
 ###  Description
 
-EquestrianDoamainKnowledgeGraph is a knowledge graphe designed to represent structured knowledge in the equine domain, including:
+EquestrianDomain is an ontology  designed to represent structured knowledge in the equine domain, including:
 - Horse profiles
 - Training and competition events
 - Research project data
@@ -45,5 +45,5 @@ Contributions and suggestions are welcome! You can:
 
 ###  Author
 
-Developed by [Noamaa](https://github.com/Noamaa)  
+Developed by [Noama ADRA](https://github.com/Noamaa)  
 If you use this ontology in your work, feel free to mention or cite it.
